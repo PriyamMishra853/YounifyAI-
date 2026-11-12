@@ -10,6 +10,7 @@ Built for CSJMU Ideathon 2026 by Team UnfilteredEngineers (Priyam Mishra, Ashish
 Requires Node 20.11+ (tested on 24). No database or Docker to install: Postgres runs in-process.
 
 
+
 ```bash
 npm install
 npm run dev
